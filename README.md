@@ -7,3 +7,8 @@
 ```
 pip3 install -r requirements.txt
 ```
+
+### Running bot
+```
+python3 bumblebot.py
+```
